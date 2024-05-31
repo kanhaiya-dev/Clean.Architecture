@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "Clean.Architecture.API.Controllers.AccountsController",
+    "Method": "GetAccounts",
+    "RelativePath": "api/v1/accounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountNumber",
+        "Type": "System.Nullable\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Clean.Architecture.API.Controllers.AccountsController",
+    "Method": "CreateAccount",
+    "RelativePath": "api/v1/accounts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Clean.Architecture.Core.Common.Request.AccountRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Clean.Architecture.API.Controllers.AccountsController",
+    "Method": "UpdateAccount",
+    "RelativePath": "api/v1/accounts",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "account",
+        "Type": "Clean.Architecture.Core.Common.Request.AccountRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Clean.Architecture.API.Controllers.AccountsController",
+    "Method": "DeleteAccount",
+    "RelativePath": "api/v1/accounts",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountNumber",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Clean.Architecture.API.Controllers.ProductsController",
+    "Method": "GetProducts",
+    "RelativePath": "api/v1/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

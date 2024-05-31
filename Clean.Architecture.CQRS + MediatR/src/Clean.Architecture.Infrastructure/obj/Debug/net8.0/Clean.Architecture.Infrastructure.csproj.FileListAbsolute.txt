@@ -1,0 +1,15 @@
+C:\Users\Kartik.Aggarwal\Downloads\Clean.Architecture.CQRS\Clean.Architecture.CQRS\src\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Architecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kartik.Aggarwal\Downloads\Clean.Architecture.CQRS\Clean.Architecture.CQRS\src\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Architecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kartik.Aggarwal\Downloads\Clean.Architecture.CQRS\Clean.Architecture.CQRS\src\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Architecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kartik.Aggarwal\Downloads\Clean.Architecture.CQRS\Clean.Architecture.CQRS\src\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Architecture.Infrastructure.AssemblyInfo.cs
+C:\Users\Kartik.Aggarwal\Downloads\Clean.Architecture.CQRS\Clean.Architecture.CQRS\src\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Architecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kartik.Aggarwal\Downloads\Clean.Architecture.CQRS\Clean.Architecture.CQRS\src\Clean.Architecture.Infrastructure\bin\Debug\net8.0\Clean.Architecture.Infrastructure.deps.json
+C:\Users\Kartik.Aggarwal\Downloads\Clean.Architecture.CQRS\Clean.Architecture.CQRS\src\Clean.Architecture.Infrastructure\bin\Debug\net8.0\Clean.Architecture.Infrastructure.dll
+C:\Users\Kartik.Aggarwal\Downloads\Clean.Architecture.CQRS\Clean.Architecture.CQRS\src\Clean.Architecture.Infrastructure\bin\Debug\net8.0\Clean.Architecture.Infrastructure.pdb
+C:\Users\Kartik.Aggarwal\Downloads\Clean.Architecture.CQRS\Clean.Architecture.CQRS\src\Clean.Architecture.Infrastructure\bin\Debug\net8.0\Clean.Architecture.Core.dll
+C:\Users\Kartik.Aggarwal\Downloads\Clean.Architecture.CQRS\Clean.Architecture.CQRS\src\Clean.Architecture.Infrastructure\bin\Debug\net8.0\Clean.Architecture.Core.pdb
+C:\Users\Kartik.Aggarwal\Downloads\Clean.Architecture.CQRS\Clean.Architecture.CQRS\src\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Ar.188B85B1.Up2Date
+C:\Users\Kartik.Aggarwal\Downloads\Clean.Architecture.CQRS\Clean.Architecture.CQRS\src\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Architecture.Infrastructure.dll
+C:\Users\Kartik.Aggarwal\Downloads\Clean.Architecture.CQRS\Clean.Architecture.CQRS\src\Clean.Architecture.Infrastructure\obj\Debug\net8.0\refint\Clean.Architecture.Infrastructure.dll
+C:\Users\Kartik.Aggarwal\Downloads\Clean.Architecture.CQRS\Clean.Architecture.CQRS\src\Clean.Architecture.Infrastructure\obj\Debug\net8.0\Clean.Architecture.Infrastructure.pdb
+C:\Users\Kartik.Aggarwal\Downloads\Clean.Architecture.CQRS\Clean.Architecture.CQRS\src\Clean.Architecture.Infrastructure\obj\Debug\net8.0\ref\Clean.Architecture.Infrastructure.dll

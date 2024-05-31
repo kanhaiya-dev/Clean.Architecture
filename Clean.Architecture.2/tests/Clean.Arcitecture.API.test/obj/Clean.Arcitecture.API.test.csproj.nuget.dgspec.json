@@ -1,0 +1,350 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\tests\\Clean.Arcitecture.API.test\\Clean.Arcitecture.API.test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.API\\Clean.Architecture.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.API\\Clean.Architecture.API.csproj",
+        "projectName": "Clean.Architecture.API",
+        "projectPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.API\\Clean.Architecture.API.csproj",
+        "packagesPath": "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kanhaiya.Bhayana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Source\\Repos\\nugetpackages\\Cms\\bin\\Debug": {},
+          "https://pkgs.dev.azure.com/AssetmarkInc/eWM30/_packaging/eWM30Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj": {
+                "projectPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj"
+              },
+              "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Infrastructure\\Clean.Architecture.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Infrastructure\\Clean.Architecture.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj",
+        "projectName": "Clean.Architecture.Core",
+        "projectPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj",
+        "packagesPath": "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kanhaiya.Bhayana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Source\\Repos\\nugetpackages\\Cms\\bin\\Debug": {},
+          "https://pkgs.dev.azure.com/AssetmarkInc/eWM30/_packaging/eWM30Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Infrastructure\\Clean.Architecture.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Infrastructure\\Clean.Architecture.Infrastructure.csproj",
+        "projectName": "Clean.Architecture.Infrastructure",
+        "projectPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Infrastructure\\Clean.Architecture.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kanhaiya.Bhayana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Source\\Repos\\nugetpackages\\Cms\\bin\\Debug": {},
+          "https://pkgs.dev.azure.com/AssetmarkInc/eWM30/_packaging/eWM30Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj": {
+                "projectPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\tests\\Clean.Arcitecture.API.test\\Clean.Arcitecture.API.test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\tests\\Clean.Arcitecture.API.test\\Clean.Arcitecture.API.test.csproj",
+        "projectName": "Clean.Arcitecture.API.test",
+        "projectPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\tests\\Clean.Arcitecture.API.test\\Clean.Arcitecture.API.test.csproj",
+        "packagesPath": "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\tests\\Clean.Arcitecture.API.test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kanhaiya.Bhayana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Source\\Repos\\nugetpackages\\Cms\\bin\\Debug": {},
+          "https://pkgs.dev.azure.com/AssetmarkInc/eWM30/_packaging/eWM30Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.API\\Clean.Architecture.API.csproj": {
+                "projectPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.API\\Clean.Architecture.API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
