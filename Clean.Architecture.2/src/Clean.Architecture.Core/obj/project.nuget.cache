@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pt2FkWEcNHYxHl+S8B2ewnmWFaaSV3Yb9W696TTdD+HdGmfbih6HRzsWKo3JhCTS99Qsr26k7PTuEjrJ8nQbaQ==",
+  "dgSpecHash": "AxDRQNcS2uJwFjR7bIGc4s82cJ/wWZn0V+m0h4/b9VHhCP4OaMucVbJmgkVBCvQlLMMp6KPH+vACWJuiTvXhew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj",
+  "projectFilePath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

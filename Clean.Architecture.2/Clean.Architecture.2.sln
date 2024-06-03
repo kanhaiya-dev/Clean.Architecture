@@ -13,9 +13,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{D4A6F6F8-7
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Arcitecture.API.test", "tests\Clean.Arcitecture.API.test\Clean.Arcitecture.API.test.csproj", "{EC8FEF70-5D8C-4A9D-9569-ABC3A9048055}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clean.Architecture.Infrastructure.test", "tests\Clean.Architecture.Infrastructure.test\Clean.Architecture.Infrastructure.test.csproj", "{F100DF1E-3CBC-485A-B2ED-31CF56F310BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Architecture.Infrastructure.test", "tests\Clean.Architecture.Infrastructure.test\Clean.Architecture.Infrastructure.test.csproj", "{F100DF1E-3CBC-485A-B2ED-31CF56F310BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clean.Architecture.Core.test", "tests\Clean.Architecture.Core.test\Clean.Architecture.Core.test.csproj", "{9B7E3ED3-572B-4ED0-8130-1B5CD9045D6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clean.Architecture.Core.test", "tests\Clean.Architecture.Core.test\Clean.Architecture.Core.test.csproj", "{9B7E3ED3-572B-4ED0-8130-1B5CD9045D6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2CBC7FE4-84C2-4DDB-B69B-D7ECD0A4FD98}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

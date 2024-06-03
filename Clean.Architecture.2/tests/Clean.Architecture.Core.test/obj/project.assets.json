@@ -6337,11 +6337,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\tests\\Clean.Architecture.Core.test\\Clean.Architecture.Core.test.csproj",
+      "projectUniqueName": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\tests\\Clean.Architecture.Core.test\\Clean.Architecture.Core.test.csproj",
       "projectName": "Clean.Architecture.Core.test",
-      "projectPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\tests\\Clean.Architecture.Core.test\\Clean.Architecture.Core.test.csproj",
+      "projectPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\tests\\Clean.Architecture.Core.test\\Clean.Architecture.Core.test.csproj",
       "packagesPath": "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\tests\\Clean.Architecture.Core.test\\obj\\",
+      "outputPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\tests\\Clean.Architecture.Core.test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kanhaiya.Bhayana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6359,8 +6359,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj": {
-              "projectPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj"
+            "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj": {
+              "projectPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oIPAoJZH79A+vrXFSXYZZzVxBHAcQFTQpQgZm1em2io+O9tPyeqwsEjw9sVx3ujQIBa7BQBKHORRsYO0h7IKFQ==",
+  "dgSpecHash": "Fzy9NN2GoF/PWnLc6qS7b5CZwslceqgzRQXkapTp0Kh5l6YBDEbvQGE6N1sAj+kO6tTIO+r0CBUY1Tj660qKNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\30-05-2024\\30-05-2024\\Clean.Architecture.2\\src\\Clean.Architecture.API\\Clean.Architecture.API.csproj",
+  "projectFilePath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.API\\Clean.Architecture.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Kanhaiya.Bhayana\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

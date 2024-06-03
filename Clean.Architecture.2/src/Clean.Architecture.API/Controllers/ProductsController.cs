@@ -36,5 +36,25 @@ namespace Clean.Architecture.API.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError);
             }            
         }
+
+        [HttpGet]
+        public async Task<IActionResult> GetProductsAll()
+        {
+            try
+            {
+                var content = await _productService.GetProductsAsync();
+                if (content == null)
+                {
+                    return StatusCode(StatusCodes.Status204NoContent);
+                }
+
+                List<Product> products = content.Products.ToList();
+                return Ok(products);
+            }
+            catch (Exception)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError);
+            }
+        }
     }
 }
