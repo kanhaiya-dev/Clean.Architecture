@@ -37,7 +37,7 @@ namespace Clean.Architecture.API.Controllers
             }            
         }
 
-        [HttpGet]
+        [HttpGet("/all")]
         public async Task<IActionResult> GetProductsAll()
         {
             try

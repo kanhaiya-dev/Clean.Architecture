@@ -119,8 +119,7 @@
               "RelativeToolTip": "tests\\Clean.Architecture.Core.test\\Services\\AccountServiceTests.cs",
               "ViewState": "AQIAADgAAAAAAAAAAAAkwE4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T08:10:14.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T08:10:14.802Z"
             },
             {
               "$type": "Document",
@@ -132,8 +131,7 @@
               "RelativeToolTip": "src\\Clean.Architecture.Core\\Entities\\Buisness\\Account.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T08:07:43.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T08:07:43.733Z"
             },
             {
               "$type": "Document",
@@ -145,8 +143,7 @@
               "RelativeToolTip": "src\\Clean.Architecture.Core\\Common\\Utility\\JwtSettings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T08:07:36.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T08:07:36.417Z"
             },
             {
               "$type": "Document",
@@ -158,8 +155,7 @@
               "RelativeToolTip": "src\\Clean.Architecture.Core\\Common\\Response\\ProductResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T08:07:28.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T08:07:28.729Z"
             },
             {
               "$type": "Document",
@@ -171,8 +167,7 @@
               "RelativeToolTip": "src\\Clean.Architecture.Core\\Common\\Request\\AccountRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAkwBUAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T08:05:13.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T08:05:13.06Z"
             },
             {
               "$type": "Document",
@@ -340,8 +335,7 @@
               "RelativeToolTip": "src\\Clean.Architecture.Core\\Services\\Implementation\\AccountService.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAswCkAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T16:52:39.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T16:52:39.716Z"
             },
             {
               "$type": "Document",
@@ -353,8 +347,7 @@
               "RelativeToolTip": "src\\Clean.Architecture.API\\Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-30T17:04:59.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T17:04:59.602Z"
             },
             {
               "$type": "Document",
@@ -366,8 +359,7 @@
               "RelativeToolTip": "src\\Clean.Architecture.Core\\Common\\Response\\AccountResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAkwA8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T17:00:03.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T17:00:03.745Z"
             },
             {
               "$type": "Document",
@@ -379,8 +371,7 @@
               "RelativeToolTip": "tests\\Clean.Arcitecture.API.test\\Controller\\AccountsControllerTests.cs",
               "ViewState": "AQIAAEoAAAAAAAAAAAAYwFgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T16:54:53.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T16:54:53.721Z"
             },
             {
               "$type": "Document",
@@ -402,7 +393,7 @@
               "RelativeDocumentMoniker": "src\\Clean.Architecture.API\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.API\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "src\\Clean.Architecture.API\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA6wCgAAAA5AAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T16:49:38.6Z",
               "EditorCaption": ""
@@ -417,8 +408,7 @@
               "RelativeToolTip": "tests\\Clean.Arcitecture.API.test\\Controller\\ProductsControllerTests.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAowEgAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T16:46:43.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T16:46:43.715Z"
             }
           ]
         }
