@@ -315,8 +315,8 @@ C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\30-05-2024\30-05-2024\Clean.Archite
 C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\30-05-2024\30-05-2024\Clean.Architecture.2\tests\Clean.Architecture.Infrastructure.test\obj\Debug\net8.0\Clean.Architecture.Infrastructure.test.genruntimeconfig.cache
 C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\30-05-2024\30-05-2024\Clean.Architecture.2\tests\Clean.Architecture.Infrastructure.test\obj\Debug\net8.0\ref\Clean.Architecture.Infrastructure.test.dll
 C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\tests\Clean.Architecture.Infrastructure.test\bin\Debug\net8.0\CoverletSourceRootsMapping_Clean.Architecture.Infrastructure.test
-C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\tests\Clean.Architecture.Infrastructure.test\bin\Debug\net8.0\testhost.exe
 C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\tests\Clean.Architecture.Infrastructure.test\bin\Debug\net8.0\testhost.dll
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\tests\Clean.Architecture.Infrastructure.test\bin\Debug\net8.0\testhost.exe
 C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\tests\Clean.Architecture.Infrastructure.test\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\tests\Clean.Architecture.Infrastructure.test\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\tests\Clean.Architecture.Infrastructure.test\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll

@@ -5,6 +5,7 @@ using Clean.Architecture.Core.Common.Utility;
 using Clean.Architecture.Core.Services.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using Moq;
 
 namespace Clean.Arcitecture.API.test.Controller
@@ -12,12 +13,14 @@ namespace Clean.Arcitecture.API.test.Controller
     public class AccountsControllerTests
     {
         private readonly Mock<IAccountService> _accountServiceMock;
+        private readonly Mock<ILogger<AccountsController>> _loggerMock;
         private readonly AccountsController _accountsController;
 
         public AccountsControllerTests()
         {
             _accountServiceMock = new Mock<IAccountService>();
-            _accountsController = new AccountsController(_accountServiceMock.Object);
+            _loggerMock = new Mock<ILogger<AccountsController>>();
+            _accountsController = new AccountsController(_accountServiceMock.Object, _loggerMock.Object);
         }
 
         [Fact]

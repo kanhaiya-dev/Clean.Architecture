@@ -8,8 +8,8 @@ namespace Clean.Architecture.Core.Interfaces
 {
     public interface IRepository<T> where T : class
     {
-        Task<IReadOnlyList<T>> GetAllAsync();
-        Task<T> GetByIdAsync(long id);
+        Task<IReadOnlyList<T?>> GetAllAsync();
+        Task<T?> GetByIdAsync(long id);
         Task AddAsync(T entity);
         Task<bool> UpdateAsync(T entity);
         Task<bool> DeleteAsync(long id);

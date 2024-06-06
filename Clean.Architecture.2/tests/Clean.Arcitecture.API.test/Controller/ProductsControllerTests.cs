@@ -8,18 +8,21 @@ using Microsoft.AspNetCore.Mvc;
 using Clean.Architecture.Core.Entities.Buisness;
 using Clean.Architecture.Core.Common.Utility;
 using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Logging;
 
 namespace Clean.Arcitecture.API.test.Controller
 {
     public class ProductsControllerTests
     {
         private readonly Mock<IProductService> _mockProductService;
+        private readonly Mock<ILogger<ProductsController>> _loggerMock;
         private readonly ProductsController _controller;
 
         public ProductsControllerTests()
         {
             _mockProductService = new Mock<IProductService>();
-            _controller = new ProductsController(_mockProductService.Object);
+            _loggerMock = new Mock<ILogger<ProductsController>>();
+            _controller = new ProductsController(_mockProductService.Object, _loggerMock.Object);
         }
 
         [Fact]
