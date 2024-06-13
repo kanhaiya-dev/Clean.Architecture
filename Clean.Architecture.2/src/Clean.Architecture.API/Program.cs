@@ -16,6 +16,8 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.AddServiceDefaults();
+
 // Add services to the container.
 builder.Services.AddInfrastructure(builder.Configuration);
 
@@ -28,7 +30,7 @@ builder.Services.AddControllers();
     {
         cfg.AddAspNetCoreInstrumentation()
             .AddConsoleExporter();
-    });*/
+    });
 
 builder.Logging.AddOpenTelemetry(logging =>
 {
@@ -54,7 +56,7 @@ builder.Services.AddOpenTelemetry()
       });
 
 
-builder.Logging.AddOpenTelemetry(logging => logging.AddOtlpExporter()); 
+builder.Logging.AddOpenTelemetry(logging => logging.AddOtlpExporter()); */
 
 builder.Services.AddApiVersioning(config =>
 {
@@ -135,6 +137,8 @@ builder.Services.AddApplicationInsightsTelemetry(new Microsoft.ApplicationInsigh
     ConnectionString = builder.Configuration["APPLICATIONINSIGHTS_CONNECTION_STRING"]
 });
 var app = builder.Build();
+
+app.MapDefaultEndpoints();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

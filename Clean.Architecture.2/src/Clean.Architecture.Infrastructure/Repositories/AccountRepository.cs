@@ -53,19 +53,27 @@ public class AccountRepository : IAccountRepository
         }
     }
 
-    public async Task AddAsync(Account entity)
+    public async Task<bool> AddAsync(Account entity)
     {
         try
         {
             _logger.LogInformation("Adding new account...");
             entity.CreatedAt = DateTime.Now;
-            await _connectionWrapper.ExecuteAsync(AccountQueries.AddAccount, entity);
-            _logger.LogInformation("Account added successfully.");
+            var result = await _connectionWrapper.ExecuteAsync(AccountQueries.AddAccount, entity);
+            if (result == 1)
+            {
+                _logger.LogInformation("Account acreated successfully.");
+            }
+            else
+            {
+                _logger.LogError("Failed to create account with request: {request}", entity);
+            }
+            return result == 1;
         }
         catch (Exception ex)
         {
             _logger.LogError(ex, "An error occurred while adding a new account.");
-            return;
+            return false;
         }
     }
 
@@ -76,8 +84,15 @@ public class AccountRepository : IAccountRepository
             _logger.LogInformation("Updating account...");
             entity.UpdatedAt = DateTime.Now;
             var result = await _connectionWrapper.ExecuteAsync(AccountQueries.UpdateAccount, entity);
-            _logger.LogInformation("Account updated successfully.");
-            return result == 1 ? true : false;
+            if (result == 1)
+            {
+                _logger.LogInformation("Account updated successfully.");
+            }
+            else
+            {
+                _logger.LogError("Failed to update, Account not found for the AccountNumber: {AccountNumber}",entity.AccountNumber);
+            }
+            return result == 1;
         }
         catch (Exception ex)
         {
@@ -92,8 +107,15 @@ public class AccountRepository : IAccountRepository
         {
             _logger.LogInformation("Deleting account with ID: {AccountId}", id);
             var result = await _connectionWrapper.ExecuteAsync(AccountQueries.DeleteAccount, new { AccountNumber = id });
-            _logger.LogInformation("Account deleted successfully.");
-            return result == 1 ? true : false;
+            if (result == 1)
+            {
+                _logger.LogInformation("Account deleted successfully.");
+            }
+            else
+            {
+                _logger.LogError("Failed to delete, Account not found with ID: {AccountId}", id);
+            }
+            return result == 1;
         }
         catch (Exception ex)
         {

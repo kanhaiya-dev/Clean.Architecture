@@ -3,32 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6727B387-03A9-4C84-9029-A89DEDFEE8FA}|src\\Clean.Architecture.API\\Clean.Architecture.API.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\src\\clean.architecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6727B387-03A9-4C84-9029-A89DEDFEE8FA}|src\\Clean.Architecture.API\\Clean.Architecture.API.csproj|solutionrelative:src\\clean.architecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{57644D3F-F594-4494-9A4E-79DBEACC8A77}|src\\Clean.Architecture.2.AppHost\\Clean.Architecture.2.AppHost.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\src\\clean.architecture.2.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57644D3F-F594-4494-9A4E-79DBEACC8A77}|src\\Clean.Architecture.2.AppHost\\Clean.Architecture.2.AppHost.csproj|solutionrelative:src\\clean.architecture.2.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6727B387-03A9-4C84-9029-A89DEDFEE8FA}|src\\Clean.Architecture.API\\Clean.Architecture.API.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\src\\clean.architecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6727B387-03A9-4C84-9029-A89DEDFEE8FA}|src\\Clean.Architecture.API\\Clean.Architecture.API.csproj|solutionrelative:src\\clean.architecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57644D3F-F594-4494-9A4E-79DBEACC8A77}|src\\Clean.Architecture.2.AppHost\\Clean.Architecture.2.AppHost.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\src\\clean.architecture.2.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57644D3F-F594-4494-9A4E-79DBEACC8A77}|src\\Clean.Architecture.2.AppHost\\Clean.Architecture.2.AppHost.csproj|solutionrelative:src\\clean.architecture.2.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B1CC58-00F8-438C-82A2-D90A0908D692}|src\\Clean.Architecture.Infrastructure\\Clean.Architecture.Infrastructure.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\src\\clean.architecture.infrastructure\\data\\queries\\accountqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7B1CC58-00F8-438C-82A2-D90A0908D692}|src\\Clean.Architecture.Infrastructure\\Clean.Architecture.Infrastructure.csproj|solutionrelative:src\\clean.architecture.infrastructure\\data\\queries\\accountqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57644D3F-F594-4494-9A4E-79DBEACC8A77}|src\\Clean.Architecture.2.AppHost\\Clean.Architecture.2.AppHost.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\src\\clean.architecture.2.apphost\\clean.architecture.2.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57644D3F-F594-4494-9A4E-79DBEACC8A77}|src\\Clean.Architecture.2.AppHost\\Clean.Architecture.2.AppHost.csproj|solutionrelative:src\\clean.architecture.2.apphost\\clean.architecture.2.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B1CC58-00F8-438C-82A2-D90A0908D692}|src\\Clean.Architecture.Infrastructure\\Clean.Architecture.Infrastructure.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\src\\clean.architecture.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B1CC58-00F8-438C-82A2-D90A0908D692}|src\\Clean.Architecture.Infrastructure\\Clean.Architecture.Infrastructure.csproj|solutionrelative:src\\clean.architecture.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6727B387-03A9-4C84-9029-A89DEDFEE8FA}|src\\Clean.Architecture.API\\Clean.Architecture.API.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\src\\clean.architecture.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6727B387-03A9-4C84-9029-A89DEDFEE8FA}|src\\Clean.Architecture.API\\Clean.Architecture.API.csproj|solutionrelative:src\\clean.architecture.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A436A5A8-38F5-42A8-A058-BB8066D3B48D}|src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\src\\clean.architecture.core\\services\\implementation\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A436A5A8-38F5-42A8-A058-BB8066D3B48D}|src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj|solutionrelative:src\\clean.architecture.core\\services\\implementation\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6727B387-03A9-4C84-9029-A89DEDFEE8FA}|src\\Clean.Architecture.API\\Clean.Architecture.API.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\src\\clean.architecture.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6727B387-03A9-4C84-9029-A89DEDFEE8FA}|src\\Clean.Architecture.API\\Clean.Architecture.API.csproj|solutionrelative:src\\clean.architecture.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A436A5A8-38F5-42A8-A058-BB8066D3B48D}|src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\src\\clean.architecture.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A436A5A8-38F5-42A8-A058-BB8066D3B48D}|src\\Clean.Architecture.Core\\Clean.Architecture.Core.csproj|solutionrelative:src\\clean.architecture.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6727B387-03A9-4C84-9029-A89DEDFEE8FA}|src\\Clean.Architecture.API\\Clean.Architecture.API.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\src\\clean.architecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6727B387-03A9-4C84-9029-A89DEDFEE8FA}|src\\Clean.Architecture.API\\Clean.Architecture.API.csproj|solutionrelative:src\\clean.architecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7B1CC58-00F8-438C-82A2-D90A0908D692}|src\\Clean.Architecture.Infrastructure\\Clean.Architecture.Infrastructure.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\src\\clean.architecture.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7B1CC58-00F8-438C-82A2-D90A0908D692}|src\\Clean.Architecture.Infrastructure\\Clean.Architecture.Infrastructure.csproj|solutionrelative:src\\clean.architecture.infrastructure\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6727B387-03A9-4C84-9029-A89DEDFEE8FA}|src\\Clean.Architecture.API\\Clean.Architecture.API.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\src\\clean.architecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6727B387-03A9-4C84-9029-A89DEDFEE8FA}|src\\Clean.Architecture.API\\Clean.Architecture.API.csproj|solutionrelative:src\\clean.architecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7E3ED3-572B-4ED0-8130-1B5CD9045D6B}|tests\\Clean.Architecture.Core.test\\Clean.Architecture.Core.test.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\tests\\clean.architecture.core.test\\services\\accountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7E3ED3-572B-4ED0-8130-1B5CD9045D6B}|tests\\Clean.Architecture.Core.test\\Clean.Architecture.Core.test.csproj|solutionrelative:tests\\clean.architecture.core.test\\services\\accountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F100DF1E-3CBC-485A-B2ED-31CF56F310BF}|tests\\Clean.Architecture.Infrastructure.test\\Clean.Architecture.Infrastructure.test.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\tests\\clean.architecture.infrastructure.test\\repositories\\accountrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F100DF1E-3CBC-485A-B2ED-31CF56F310BF}|tests\\Clean.Architecture.Infrastructure.test\\Clean.Architecture.Infrastructure.test.csproj|solutionrelative:tests\\clean.architecture.infrastructure.test\\repositories\\accountrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8FEF70-5D8C-4A9D-9569-ABC3A9048055}|tests\\Clean.Arcitecture.API.test\\Clean.Arcitecture.API.test.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\tests\\clean.arcitecture.api.test\\controller\\accountscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8FEF70-5D8C-4A9D-9569-ABC3A9048055}|tests\\Clean.Arcitecture.API.test\\Clean.Arcitecture.API.test.csproj|solutionrelative:tests\\clean.arcitecture.api.test\\controller\\accountscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7E3ED3-572B-4ED0-8130-1B5CD9045D6B}|tests\\Clean.Architecture.Core.test\\Clean.Architecture.Core.test.csproj|c:\\users\\kanhaiya.bhayana\\source\\repos\\cloud\\clean.architecture\\clean.architecture.2\\tests\\clean.architecture.core.test\\services\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7E3ED3-572B-4ED0-8130-1B5CD9045D6B}|tests\\Clean.Architecture.Core.test\\Clean.Architecture.Core.test.csproj|solutionrelative:tests\\clean.architecture.core.test\\services\\productservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +58,166 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Services\\Implementation\\AccountService.cs",
-              "RelativeDocumentMoniker": "src\\Clean.Architecture.Core\\Services\\Implementation\\AccountService.cs",
-              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Services\\Implementation\\AccountService.cs",
-              "RelativeToolTip": "src\\Clean.Architecture.Core\\Services\\Implementation\\AccountService.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAswEEAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T13:58:52.957Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "src\\Clean.Architecture.Core\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.Core\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "src\\Clean.Architecture.Core\\Interfaces\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T13:58:27.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AccountRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.Infrastructure\\Repositories\\AccountRepository.cs",
-              "RelativeDocumentMoniker": "src\\Clean.Architecture.Infrastructure\\Repositories\\AccountRepository.cs",
-              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.Infrastructure\\Repositories\\AccountRepository.cs",
-              "RelativeToolTip": "src\\Clean.Architecture.Infrastructure\\Repositories\\AccountRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAIA9wBkAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T13:57:50.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountsController.cs",
-              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.API\\Controllers\\AccountsController.cs",
-              "RelativeDocumentMoniker": "src\\Clean.Architecture.API\\Controllers\\AccountsController.cs",
-              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.API\\Controllers\\AccountsController.cs",
-              "RelativeToolTip": "src\\Clean.Architecture.API\\Controllers\\AccountsController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAMwCAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T13:50:58.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountQueries.cs",
-              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.Infrastructure\\Data\\Queries\\AccountQueries.cs",
-              "RelativeDocumentMoniker": "src\\Clean.Architecture.Infrastructure\\Data\\Queries\\AccountQueries.cs",
-              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.Infrastructure\\Data\\Queries\\AccountQueries.cs",
-              "RelativeToolTip": "src\\Clean.Architecture.Infrastructure\\Data\\Queries\\AccountQueries.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAwwBQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T13:53:19.469Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.2.AppHost\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Clean.Architecture.2.AppHost\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.2.AppHost\\appsettings.json",
+              "RelativeToolTip": "src\\Clean.Architecture.2.AppHost\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T14:21:33.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.API\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\Clean.Architecture.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.API\\appsettings.json",
-              "RelativeToolTip": "src\\Clean.Architecture.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-05T13:48:53.5Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.2.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Clean.Architecture.2.AppHost\\Program.cs",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.2.AppHost\\Program.cs",
+              "RelativeToolTip": "src\\Clean.Architecture.2.AppHost\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:19:15.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Clean.Architecture.2.AppHost",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.2.AppHost\\Clean.Architecture.2.AppHost.csproj",
+              "RelativeDocumentMoniker": "src\\Clean.Architecture.2.AppHost\\Clean.Architecture.2.AppHost.csproj",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.2.AppHost\\Clean.Architecture.2.AppHost.csproj",
+              "RelativeToolTip": "src\\Clean.Architecture.2.AppHost\\Clean.Architecture.2.AppHost.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T14:18:54.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "src\\Clean.Architecture.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "src\\Clean.Architecture.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:19:29.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.API\\Program.cs",
               "RelativeDocumentMoniker": "src\\Clean.Architecture.API\\Program.cs",
               "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.API\\Program.cs",
               "RelativeToolTip": "src\\Clean.Architecture.API\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAYwBMAAAA6AAAA",
+              "ViewState": "AQIAAGEAAAAA/////78twHcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T13:48:05.453Z",
+              "WhenOpened": "2024-06-10T13:52:47.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.Infrastructure\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "src\\Clean.Architecture.Infrastructure\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.Infrastructure\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "src\\Clean.Architecture.Infrastructure\\Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwEIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:52:47.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.API\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "src\\Clean.Architecture.API\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.API\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "src\\Clean.Architecture.API\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAwwFkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:47:16.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\tests\\Clean.Architecture.Infrastructure.test\\Repositories\\AccountRepositoryTests.cs",
+              "RelativeDocumentMoniker": "tests\\Clean.Architecture.Infrastructure.test\\Repositories\\AccountRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\tests\\Clean.Architecture.Infrastructure.test\\Repositories\\AccountRepositoryTests.cs",
+              "RelativeToolTip": "tests\\Clean.Architecture.Infrastructure.test\\Repositories\\AccountRepositoryTests.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAawJEAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:43:56.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\tests\\Clean.Architecture.Core.test\\Services\\ProductServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\Clean.Architecture.Core.test\\Services\\ProductServiceTests.cs",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\tests\\Clean.Architecture.Core.test\\Services\\ProductServiceTests.cs",
+              "RelativeToolTip": "tests\\Clean.Architecture.Core.test\\Services\\ProductServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:43:10.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\tests\\Clean.Arcitecture.API.test\\Controller\\AccountsControllerTests.cs",
+              "RelativeDocumentMoniker": "tests\\Clean.Arcitecture.API.test\\Controller\\AccountsControllerTests.cs",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\tests\\Clean.Arcitecture.API.test\\Controller\\AccountsControllerTests.cs",
+              "RelativeToolTip": "tests\\Clean.Arcitecture.API.test\\Controller\\AccountsControllerTests.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAcwFwAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:41:26.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\tests\\Clean.Architecture.Core.test\\Services\\AccountServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\Clean.Architecture.Core.test\\Services\\AccountServiceTests.cs",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\tests\\Clean.Architecture.Core.test\\Services\\AccountServiceTests.cs",
+              "RelativeToolTip": "tests\\Clean.Architecture.Core.test\\Services\\AccountServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:40:51.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Clean.Architecture.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kanhaiya.Bhayana\\source\\repos\\Cloud\\Clean.Architecture\\Clean.Architecture.2\\src\\Clean.Architecture.API\\appsettings.json",
+              "RelativeToolTip": "src\\Clean.Architecture.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T08:44:54.986Z",
               "EditorCaption": ""
             }
           ]

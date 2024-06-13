@@ -1,0 +1,13 @@
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\src\Clean.Architecture.2.ServiceDefaults\bin\Debug\net8.0\Clean.Architecture.2.ServiceDefaults.deps.json
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\src\Clean.Architecture.2.ServiceDefaults\bin\Debug\net8.0\Clean.Architecture.2.ServiceDefaults.dll
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\src\Clean.Architecture.2.ServiceDefaults\bin\Debug\net8.0\Clean.Architecture.2.ServiceDefaults.pdb
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\src\Clean.Architecture.2.ServiceDefaults\obj\Debug\net8.0\Clean.Architecture.2.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\src\Clean.Architecture.2.ServiceDefaults\obj\Debug\net8.0\Clean.Architecture.2.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\src\Clean.Architecture.2.ServiceDefaults\obj\Debug\net8.0\Clean.Architecture.2.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\src\Clean.Architecture.2.ServiceDefaults\obj\Debug\net8.0\Clean.Architecture.2.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\src\Clean.Architecture.2.ServiceDefaults\obj\Debug\net8.0\Clean.Architecture.2.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\src\Clean.Architecture.2.ServiceDefaults\obj\Debug\net8.0\Clean.Architecture.2.ServiceDefaults.sourcelink.json
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\src\Clean.Architecture.2.ServiceDefaults\obj\Debug\net8.0\Clean.Architecture.2.ServiceDefaults.dll
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\src\Clean.Architecture.2.ServiceDefaults\obj\Debug\net8.0\refint\Clean.Architecture.2.ServiceDefaults.dll
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\src\Clean.Architecture.2.ServiceDefaults\obj\Debug\net8.0\Clean.Architecture.2.ServiceDefaults.pdb
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\src\Clean.Architecture.2.ServiceDefaults\obj\Debug\net8.0\ref\Clean.Architecture.2.ServiceDefaults.dll

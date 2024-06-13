@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  accounts-app.api:
+    image: accounts-app.api:latest
+    container_name: api
+    build:
+      context: .
+      dockerfile: ./src/Clean.Architecture.API/Dockerfile
+    ports:
+      - "8080:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - OTEL_EXPORTER_OTLP_ENDPOINT=http://accounts-app.dashboard:18889
+    networks:
+      - otel
+
+  accounts-app.dashboard:
+    image: mcr.microsoft.com/dotnet/nightly/aspire-dashboard:latest
+    container_name: dashboard
+    ports:
+      - 18888:18888
+    networks:
+      - otel
+
+networks:
+  otel:

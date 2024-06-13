@@ -1,4 +1,5 @@
 ﻿using Clean.Architecture.Core.Common.Request;
+using Clean.Architecture.Core.Entities.Buisness;
 using Clean.Architecture.Core.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -64,8 +65,14 @@ namespace Clean.Architecture.API.Controllers
             try
             {
                 _logger.LogInformation("CreateAccount called with request: {@request}", request);
-                await _accountService.CreateAccountAsync(request);
-                return StatusCode(StatusCodes.Status201Created);
+                var response = await _accountService.CreateAccountAsync(request);
+                if (response)
+                {
+                    return StatusCode(StatusCodes.Status201Created);
+                }
+                _logger.LogError("Create account failed for account: {@request}", request.ToString());
+                _logger.LogTrace("error occured");
+                return StatusCode(StatusCodes.Status500InternalServerError);
             }
             catch (Exception ex)
             {

@@ -1,0 +1,6 @@
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\obj\Debug\net8.0\Clean.Architecture.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\obj\Debug\net8.0\Clean.Architecture.2.AssemblyInfoInputs.cache
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\obj\Debug\net8.0\Clean.Architecture.2.AssemblyInfo.cs
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\obj\Debug\net8.0\Clean.Architecture.2.csproj.CoreCompileInputs.cache
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\obj\Debug\net8.0\Clean.Architecture.2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kanhaiya.Bhayana\source\repos\Cloud\Clean.Architecture\Clean.Architecture.2\obj\Debug\net8.0\Clean.Architecture.2.sourcelink.json
